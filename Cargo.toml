@@ -1,0 +1,11 @@
+[package]
+name = "hexbytes"
+version = "0.1.0"
+authors = ["Mikko Rantanen <jubjub@jubjubnest.net>"]
+license = "MIT"
+
+[lib]
+name = "hexbytes"
+proc-macro = true
+
+[dependencies]
